@@ -1,0 +1,18 @@
+.editButton:hover{
+  cursor: pointer;
+}
+table{
+  margin-top: 2%;
+  width: 100%;
+}
+td { 
+  padding: 10px;
+}
+th { 
+  padding: 10px;
+}
+.addnew{
+  float: right;
+  color:blue;
+  cursor:pointer;
+}
